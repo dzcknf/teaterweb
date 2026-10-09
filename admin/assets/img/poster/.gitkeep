@@ -1,0 +1,2 @@
+Folder ini untuk menyimpan file poster yang diupload lewat admin panel.
+Pastikan folder ini punya permission 755 atau 775 (writable oleh PHP).
