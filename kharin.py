@@ -1,0 +1,1 @@
+gacoan yok gacoan ujang kedu enak banget

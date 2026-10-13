@@ -1,0 +1,1 @@
+aku kharin, paling cantik sedunia terserah
